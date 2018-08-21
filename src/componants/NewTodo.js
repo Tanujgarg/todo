@@ -11,7 +11,6 @@ import { Jumbotron, Button } from 'reactstrap';
 let id = 0
 
 
-
 const Todo = props => (
     <div>
         <Jumbotron>
